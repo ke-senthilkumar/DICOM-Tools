@@ -12,16 +12,16 @@ Multi Isocenter Viewer
 When a RT Plan has multiple isocenters, this tools can be used to view them and accordingly setup the couch position.
 DICOM RT Plan file only can be used.
 
-IsoAnalyse Software (SNC)
+IsoAnalyse Software
 
-For Isoanalyse software, one has to setup the Image Name or Image Label correctly in the configuration of the software. In order to identify the names of the Image Label, this tools helps exporting the names and configure the settings easily.
-DICOM RT Plan file only can be used.
+Some software may require that the Image Label name should be known prior to their usage or configuration. In such situation, this tools might become handy
+DICOM RT Images can only be used.
 
 
-Multimet Image Analyser (SNC)
+Multimet Image Analyser
 
 Multimet software uses 2 sets of exposed images based on the couch kick settings, 10 or 19. During the analysis, sometimes the software will give a cryptic warning due to duplicate images or incorrect angels. Using this tool, one can analyse the Collimator, Couch and Gantry angles and compare them to the table. If there is a duplicate or missing file, one can take action accordingly.
-DICOM RT Plan file only can be used.
+DICOM RT Images can only be used.
 
 
 DICOM Parser
@@ -38,7 +38,11 @@ DICOM Tools
 
 DiCOM Annonimizer
 
+
 Chnage UID Changer
 
+
 DICOM Editor
+
+
 
