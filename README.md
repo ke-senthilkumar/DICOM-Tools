@@ -50,8 +50,10 @@ DICOM Image viewer, can be used with any DICOM image modality like CT/MR/etc . D
 
 ![DICOM Tools](./Tools.png)
 
-DiCOM Annonimizer   
-Chnage UID Changer
+DICOM Annonimizer  
+
+Change UID Changer
+
 DICOM Editor
 
 
