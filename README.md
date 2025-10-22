@@ -9,7 +9,7 @@ Some of the dicom tools like IsoAnyaliser Image label, Multimet Analyser and Mul
 Useful to send a directory of DCM files to a DICOM Storage Server.
 
 2. Multi Isocenter Viewer
-![Multi Isocenter Viewer](./multiiso.png)
+![Multi Isocenter Viewer](./multiso.png)
 
 When a RT Plan has multiple isocenters, this tools can be used to view them and accordingly setup the couch position.
 DICOM RT Plan file only can be used.
@@ -29,7 +29,7 @@ DICOM RT Images can only be used.
 
 
 5. DICOM Parser
-![DICOM Psrser](./parser.png)
+![DICOM Parser](./parser.png)
 
 Generic DICOM file tags lister in a Treeview list. Expand will expand one level more. No editing available, READ only !
 
