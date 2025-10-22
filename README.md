@@ -4,7 +4,7 @@ A collection of DICOM tools for viewing and editing Dicom files and other collec
 Some of the dicom tools like IsoAnyaliser Image label, Multimet Analyser and Multi Isocenter are written for SNC Software. Others are generic DICOM specific tools.
 
 DICOM Push
-![DICOM Push](./push.png)
+![DICOM Push](./ush.png)
 Useful to send a directory of DCM files to a DICOM Storage Server.
 
 Multi Isocenter Viewer
